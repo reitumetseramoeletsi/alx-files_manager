@@ -1,4 +1,4 @@
-The objective is to build a simple platform to upload and view files:
+Files Manager: This the project that builts a simple plartform to summarise all the concepts of Back-end specialisation
 
     User authentication via a token
     List all files
